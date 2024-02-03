@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/workouttimer/static/css/main.98da1142.css",
+    "main.js": "/workouttimer/static/js/main.05acfd0e.js",
+    "static/media/ClickSound.m4a": "/workouttimer/static/media/ClickSound.f7e8f889fedabc8d298c.m4a",
+    "index.html": "/workouttimer/index.html",
+    "main.98da1142.css.map": "/workouttimer/static/css/main.98da1142.css.map",
+    "main.05acfd0e.js.map": "/workouttimer/static/js/main.05acfd0e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98da1142.css",
+    "static/js/main.05acfd0e.js"
+  ]
+}
